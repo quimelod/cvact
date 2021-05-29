@@ -394,15 +394,16 @@ main div.entero {
   position: relative;
   /*z-index: 130;*/
   height: 80px;
-  overflow:scroll;
+  overflow-y: auto;
   border:rgba(105, 105, 105) solid 1px;
   border-radius: 5px;
   padding: 2px;
 }
 
 /*::-webkit-scrollbar {
-  display: none;*/
-} 
+  display: none;
+} */
+
 .aprendizaje {
   list-style: none;
   padding-left: 0!important;
