@@ -398,6 +398,7 @@ main div.entero {
   border:rgba(105, 105, 105) solid 1px;
   border-radius: 5px;
   padding: 2px;
+  z-index: 110;
 }
 
 /*::-webkit-scrollbar {
