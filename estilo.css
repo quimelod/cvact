@@ -391,6 +391,8 @@ main div.entero {
 
 }
 .desc {
+  position: relative;
+  /*z-index: 130;*/
   height: 80px;
   overflow:scroll;
   border:rgba(105, 105, 105) solid 1px;
