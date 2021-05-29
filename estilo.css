@@ -398,8 +398,8 @@ main div.entero {
   padding: 2px;
 }
 
-::-webkit-scrollbar {
-  display: none;
+/*::-webkit-scrollbar {
+  display: none;*/
 } 
 .aprendizaje {
   list-style: none;
