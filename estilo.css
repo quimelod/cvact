@@ -469,6 +469,7 @@ main div.entero {
   outline: none;
 }
 .form_contact input {
+  z-index: 125;
   padding: 0.5rem;
   border-radius: 5px;
   background-color: transparent;
@@ -479,6 +480,7 @@ main div.entero {
   margin-top: 0.5rem;
 }
 .form_contact textarea {
+  z-index: 125;
   padding: 0.5rem;
   background-color: transparent;
   border: none;
@@ -498,6 +500,7 @@ main div.entero {
   width:80%;
 }
 .enviar {
+  z-index: 125;
   border: teal solid 2px!important;
   margin-top: 0.8rem;
   padding: 3px;
