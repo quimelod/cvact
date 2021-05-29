@@ -480,7 +480,7 @@ main div.entero {
   margin-top: 0.5rem;
 }
 .form_contact textarea {
-  z-index = 125;
+  z-index: 125;
   padding: 0.5rem;
   background-color: transparent;
   border: none;
