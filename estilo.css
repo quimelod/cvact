@@ -398,9 +398,9 @@ main div.entero {
   padding: 2px;
 }
 
-/* ::-webkit-scrollbar {
+::-webkit-scrollbar {
   display: none;
-} */
+} 
 .aprendizaje {
   list-style: none;
   padding-left: 0!important;
